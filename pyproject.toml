@@ -10,6 +10,7 @@ python = "^3.12"
 loguru = "^0.7.2"
 pandas = "^2.2.1"
 fastparquet = "^2024.2.0"
+tenacity = "^8.2.3"
 
 
 [build-system]
